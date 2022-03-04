@@ -1,4 +1,4 @@
-# Computational-and-Mathematical-Methods-in-Medicine
+# Cross-Tissue Analysis using Machine Learning to Identify Novel Biomarkers for Knee Osteoarthritis
 
 ### Magazine：Computational and Mathematical Methods in Medicine
 
